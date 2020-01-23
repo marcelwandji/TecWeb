@@ -1,0 +1,15 @@
+<!ELEMENT protagonisti (personaggio+)>
+<!ATTLIST protagonisti gioco CDATA #REQUIRED>
+<!ELEMENT personaggio (colore,peso,potenza?,presenteIn,img,descr)>
+<!ATTLIST personaggio nome CDATA #REQUIRED>
+<!ELEMENT colore (#PCDATA)>
+<!ELEMENT peso (#PCDATA)>
+<!ATTLIST peso unitaMisura CDATA #REQUIRED>
+<!ELEMENT potenza(#PCDATA)>
+<!ELEMENT presenteIn (serie*)>
+<!ELEMENT serie(#PCDATA)>
+<!ELEMENT img EMPTY>
+<!ATTLIST img alt CDATA #REQUIRED, src CDATA #REQUIRED>
+<!ELEMENT descr (p+)>
+<!ELEMENT p (#PCDATA | em)*>
+<!ELEMENT em(#PCDATA)>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE protagonisti SYSTEM "personaggi.dtd">
+<protagonisti gioco="Angry Birds"  xmlns="http://www.protagonisti.com"
+xmlns:xs="http://www.w3.org/2001/XMLSchema-instance"
+xs:schemaLocation="http://www.protagonisti.com protagonisti.xsd">
+	<personaggio nome="Red">
+		<colore>Rosso</colore>
+		<peso unitaMisura="wink">50</peso>
+		<potenza>Bassa</potenza>
+		<presenteIn>
+			<serie>Angry Birds</serie>
+			<serie>Angry Birds Rio</serie>
+			<serie>Angry Birds Star Wars</serie>
+			<serie>Angry Birds Space</serie>
+		</presenteIn>
+		<img src="images/red.png" alt="Immagine di Red, uccello rosso con la pancia marroncina e dalla forma sferica" />
+		<descr>
+			<p>Sono cardinali rossi e non hanno nessuna abilità particolare. Gli unici introdotti immediatamente.</p>
+		</descr>
+	</personaggio>
+	batt
+	<personaggio nome="Blue (Jay, Jake e Jim Blue alias &quot;The Blues&quot;)">
+		<colore>Blu</colore>
+		<peso unitaMisura="wink">80</peso>
+		<potenza>Bassa</potenza>
+		<presenteIn>
+			<serie>Angry Birds Rio</serie>
+			<serie>Angry Birds Star Wars</serie>
+			<serie>Angry Birds Space</serie>
+		</presenteIn>
+		<img src="images/blue.png" alt="Immagine di Blue, uccello dal becco lungo e corpo azzurro chiaro di forma rotondeggiante" />
+		<descr>
+			<p>Sono blu, piccoli e apparentemente poco distruttivi. Se però viene toccato un qualsiasi punto dello schermo (touchscreen o click del mouse su schermi) uno di questi uccelli è in volo, esso si triplica e viene sostituito da tre uccelli identici, che continuano nella sua traiettoria seguendo un percorso "a pioggia". Particolarmente adatti a distruggere elementi in vetro e introdotti dal primo capitolo. In alcuni dei cortometraggi animati pubblicati da Rovio su
+			Angry Birds toons come promozione di nuovi capitoli, appaiono come un gruppetto di tre giovani volatili.</p>
+		</descr>
+	</personaggio>
+	<personaggio nome="Matilda">
+		<colore>Bianco</colore>
+		<peso unitaMisura="wink">95</peso>
+		<potenza>Media</potenza>
+		<presenteIn>
+			<serie>Angry Birds Star Wars</serie>
+			<serie>Angry Birds Space</serie>
+		</presenteIn>
+		<img src="images/white.png" alt="Immagine di White, uccellino che sembra innocuo bianco e marroncino a forma di uovo" />
+		<descr><p>Sono grossi e bianchi, sono galline, e hanno l'abilità, se viene toccato un qualsiasi punto dello schermo mentre sono in volo, di lasciar cadere un uovo, che cade in verticale ed esplode come una bomba appena tocca qualcosa. Dopo aver sganciato la bomba subiscono un'accelerazione diagonale verso l'alto, che può essere a sua volta utilizzata per distruggere o sbalzare via elementi portanti della struttura. Esordiscono nel primo capitolo. Non sono presenti in Angry Birds Space.</p>
+		</descr>
+	</personaggio>
+	<personaggio nome="Big Red (Terence)">
+		<colore>Rosso</colore>
+		<peso unitaMisura="wink">150</peso>
+		<potenza>Elevata</potenza>
+		<presenteIn>
+			<serie>Angry Birds Rio</serie>
+			<serie>Angry Birds Star Wars</serie>
+		</presenteIn>
+		<img src="images/big_red.png" alt="Immagine di Big Red, uccello uguale a Red, e quindi rosso con la pancia marroncina, ma di dimensioni molto più grandi" />
+		<descr><p>Sono rossi e quasi uguali ai Red ma quattro volte più grandi e pesanti e dunque con forza distruttiva molto maggiore. Appaiono per la prima volta nel quarto capitolo.</p></descr>
+
+	</personaggio>
+	<personaggio nome="Bubbles">
+		<colore>Arancione</colore>
+		<peso unitaMisura="wink">80</peso>
+		<potenza>Elevata</potenza>
+		<presenteIn>
+			<serie>Angry Birds Space</serie>
+		</presenteIn>
+		<img src="images/orange.png" alt="Immagine di Orange, uccello molto arrabbiato arancione, con un becco particolare e con la mascherina nera intorno agli occhi" />
+		<descr><p>Sono arancioni e nel momento in cui viene toccato un qualsiasi punto dello schermo si gonfiano istantaneamente, aumentando di molte volte il proprio volume, per poi sgonfiarsi come palloncini. Il loro utilizzo tipico consiste nel farli entrare in passaggi stretti, per poi farli espandere in modo da operare una grande distruzione. Se il loro effetto non viene attivato manualmente, si gonfiano automaticamente poco dopo aver toccato qualcosa. Sono presenti nell'ultimo episodio <em >"Birdday Party"</em> di Angry Birds, e nell'episodio <em >"Ham'o'ween"</em> di Angry Birds Seasons.</p></descr>
+	</personaggio>
+
+	<personaggio nome="Stella">
+		<colore>Rosa</colore>
+		<peso unitaMisura="wink">250</peso>
+		<potenza>Elevata</potenza>
+		<presenteIn />
+		<img src="images/pink.png" alt="Immagine di Pink, uccellino femmina rosa dagli occhi azzurri di forma sferica e un ciuffo a gallina" />
+		<descr><p>Sono rosa e hanno le dimensioni dei Red, ma il misero potere distruttivo dei Blue. Nel momento in cui viene toccato un qualsiasi punto dello schermo, sollevano con delle bolle di sapone loro stesse e gli oggetti vicini (maiali compresi). Dopo qualche secondo le bolle scoppiano e ricade tutto ciò che era stato sollevato. Se questo effetto non viene suscitato manualmente si attiva in modo automatico poco dopo aver toccato una superficie. Sono gli unici uccelli del gioco disegnati con fattezze femminili, infatti sono le femmine del cardinale rosso. Sono inpersonaggi introdotti nell'episodio <em >"Back to school"</em> di Angry Birds Seasons. Non sono presenti in Angry Birds Space.</p></descr>
+	</personaggio>
+
+	<personaggio nome="Mighty Eagle">
+		<colore>Viola</colore>
+		<peso unitaMisura="wink">300</peso>
+		<presenteIn />
+		<img src="images/mighty_eagle.png" alt="Immagine di Mighty Eagle, aquila dal becco lungo con il corpo metà bianco e metà marrone" />
+		<descr>
+		<p>è un'aquila bianca e nera di dimensioni enormi, in grado di distruggere con il suo peso ogni cosa presente nel livello, e funge da aiuto per i livelli difficili, che non si riescono a completare con i normali uccelli. Si attiva lanciando una scatoletta sulla struttura: l'aquila gigante si abbatte nel punto dove la scatoletta di pesce atterra. Dopo averla usata, si deve attendere un'ora per poterla riavere a disposizione per superare un nuovo livello, mentre è possibile riutilizzarla a piacere nei livelli già terminati. Superare un livello con la mighty eagle non assegna alcuna "stella", e quindi, se si vogliono ottenere le relative stelle, il livello andrà rigiocato successivamente senza usufruire dell'aquila; tuttavia, il punteggio è calcolato come percentuale di distruzione: in caso si raggiunga il 100%, si è ricompensati con una piuma di aquila. La Mighty Eagle è una sorta di "minigioco" o "espansione" disponibile, a pagamento, solo in alcune versioni del gioco, con un acquisto in-app. Nel capitolo <em >"Year of the Dragon"</em> di Angry Birds Seasons, la Mighty Eagle è eccezionalmente sostituita dal Mighty Dragon e al posto della scatola di sardine viene lanciato un pesce dorato, è reso disponibile anche in versioni gratuite del gioco. In Angry Birds Space è presente la Mighty Space Eagle, che funziona in modo simile alla normale Mighty Eagle, ma invece di picchiare e sumbalzare al suolo con la conseguente distruzione di quasi tutto lo scenario, non essendoci suolo in <em >"Space"</em> dopo qualche secondo che le sardine si bloccano essa sbucherà fuori dal buco nero distruggendo solo ciò che è presente nel suo raggio d'azione. In <em >"Angry Birds Star Wars"</em> è invece sostituita dal Mighty Falcon. Si attiva lanciando un uovo robotico sul campo di gioco. Dopo pochi secondi che ha urtato qualcosa o quando viene toccato lo schermo, esso esplode. All'interno della scenario compare il Millennium Falcon di Guerre Stellari, e comincia a compiere un giro attorno al campo di gioco, sparando una raffica di raggi laser sul punto dove è esploso l'uovo.</p></descr>
+	</personaggio>
+</protagonisti>
